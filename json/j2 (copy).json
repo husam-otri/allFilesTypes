@@ -1,7 +1,6 @@
 {
   "result" : "success",
   "token" : "token",
-  "remember_me" : null,
   "loggedUser" : {
     "id" : 1,
     "first_name" : "Brent",
@@ -20,7 +19,8 @@
     } ],
     "timezone" : "Pacific/Niue",
     "created_at" : 1420066800000,
-    "phone_number" : "12345621",
+    "phone_number" : 12345621,
     "last_online" : 1469609210000
-  }
+  },
+  "remember_me" : null
 }
